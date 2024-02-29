@@ -31,3 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchika0011&show_icons=true&locale=en&layout=compact" alt="ruchika0011" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchika0011&show_icons=true&locale=en" alt="ruchika0011" /></p>
+
+
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxOTA4NzYsIm5iZiI6MTcwOTE5MDU3NiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDA3MDkzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNjc2YTczYjc0Zjk2ZDE5ZmVhYmFlYWE3Nzk4NTM4NTZhNzNjNmY4MjhkOGQwYTRkZjhlNmQ5NDA5MTBhY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yKGCg9K38KelmA5P0xTQvMl2wpnuU8P244jpEkYcGDE">
